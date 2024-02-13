@@ -1,1 +1,3 @@
-git pulll
+#!/bin/bash
+git pull
+
